@@ -6,3 +6,7 @@ var college = "VIT"
 function getAge() {
     return age;
 }
+
+function getCollege() {
+    return college;
+}
