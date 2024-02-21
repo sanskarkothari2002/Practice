@@ -10,3 +10,7 @@ function getAge() {
 function getCollege() {
     return college;
 }
+
+function getName() {
+    return name1;
+}
