@@ -15,3 +15,5 @@ function getName() {
     console.log("Test2 doing the commit");
     return name2;
 }
+
+console.log("Well doing man!")
