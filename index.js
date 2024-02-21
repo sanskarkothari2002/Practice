@@ -12,5 +12,6 @@ function getCollege() {
 }
 
 function getName() {
+    console.log("Test1 doing the commit");
     return name1;
 }
